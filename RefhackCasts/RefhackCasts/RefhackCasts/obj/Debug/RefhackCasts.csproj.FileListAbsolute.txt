@@ -1,0 +1,15 @@
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\obj\Debug\RefhackCasts.csproj.AssemblyReference.cache
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\obj\Debug\RefhackCasts.csproj.CoreCompileInputs.cache
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\RefhackCasts.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\RefhackCasts.pdb
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\0Harmony.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\Elements.Core.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\FrooxEngine.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\ProtoFlux.Core.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\ResoniteModLoader.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\System.ValueTuple.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\obj\Debug\RefhackCasts.csproj.CopyComplete
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\obj\Debug\RefhackCasts.dll
+C:\Users\yams\Downloads\refhack\RefhackCasts\RefhackCasts\RefhackCasts\obj\Debug\RefhackCasts.pdb
